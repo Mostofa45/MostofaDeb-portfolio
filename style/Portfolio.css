@@ -36,7 +36,7 @@ nav li{
     background: #fff8f3;
     background-image: url(../images/header_bg.png),url(../images/developer.png);
     background-repeat: no-repeat;
-    background-position: bottom right,left;
+    background-position: bottom right,left;}
 .banner{
     margin: 0 200px;
     display: flex;
@@ -57,16 +57,23 @@ nav li{
     font-size: 18px;
     margin-bottom: 30px;
 }
-
-.about{
-    margin-top: 130px;
-    background: #8c6446;
-    border-radius: 10px;
-    padding: 130px 150px;
+main{
+    max-width: 1140px;
+    margin: 0 auto;
 }
+
+
 .h3{
-    margin-top: 130px;
+        margin-top: 130px;
+        background: #d4b9a6;
+        border-radius: 10px; 
+        padding: 130px 150px;   
 }
 .section{
-    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.section-p{
+    color: #757575;
+    font-size: 18px;
 }
