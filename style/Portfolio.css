@@ -65,15 +65,35 @@ main{
 
 .h3{
         margin-top: 130px;
+        margin-bottom: 70px;
         background: #d4b9a6;
         border-radius: 10px; 
-        padding: 130px 150px;   
+        padding: 130px 150px;
+        text-align: center;
 }
 .section{
-    text-align: center;
     margin-bottom: 20px;
 }
 .section-p{
     color: #757575;
     font-size: 18px;
+    margin-bottom: 30px;
+}
+.ul-li{
+    display: flex;
+}
+.LI{
+    margin-right: 70px;
+}
+div{
+    text-align: center;
+
+}
+.what{
+    margin-bottom: 40px;
+}
+.what-p{
+    font-size: 18px;
+    color: darkslategray;
+
 }
