@@ -103,3 +103,12 @@ div{
 .div-icon{
    display: flex;
 }
+.icon{
+    margin: 10px;
+    background-color: bisque;
+    padding: 20px;
+}
+.img{
+    margin-top: 20px;
+    padding: 10px 12 gap: 5px;0px 10px 0px;
+}
