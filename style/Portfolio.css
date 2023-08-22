@@ -63,7 +63,7 @@ main{
 }
 
 
-.h3{
+.resume{
         margin-top: 130px;
         margin-bottom: 70px;
         background: #d4b9a6;
@@ -96,10 +96,9 @@ div{
     margin-top: 150px;
     margin-bottom: 80px;
 }
-.what-do{
+
    
    
-}
 .div-icon{
    display: flex;
 }
@@ -109,6 +108,13 @@ div{
     padding: 20px;
 }
 .img{
-   
     padding: 10px 200px 5px 0px;
+}
+.cl-h4{
+    padding: 0px  170px 20px 0px;
+}
+.title-{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
 }
