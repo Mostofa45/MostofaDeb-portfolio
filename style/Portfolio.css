@@ -15,6 +15,12 @@
     border-radius: 5px;
     background: #fd6e0a;
 }
+.btn-con{
+    padding: 18px 60px;
+    margin-left: 30px;
+    font-size: 20px;
+    border-color: #fb6e0a;
+}
 .nav-title{
     font-weight: 800;
     font-size: 45px;
@@ -86,7 +92,7 @@ main{
     margin-right: 70px;
 }
 div{
-    text-align: center;
+    /* text-align: center; */
 
 }
 
@@ -117,4 +123,10 @@ div{
     margin-top: 100px;
     margin-bottom: 30px;
     text-align: center;
+}
+.div-c{
+    display: flex;
+}
+.div-h1{
+    margin-left: 0px;
 }
