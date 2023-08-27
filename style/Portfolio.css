@@ -126,6 +126,7 @@ div{
 }
 .div-c{
     display: flex;
+    gap: 24PX;
 }
 .div-d{
     margin-top: 20px;
@@ -163,11 +164,16 @@ div{
 .div-img{
     padding-right: 20px;
 }
+.sec-cla{
+    text-align: left    ;
+}
 .div-con{
-   padding-right: 200px;
+  padding: 30px ;
+
 }
 .div-let{
     display: flex;
+    padding: 50%;
     background-color: blanchedalmond;
    
     
@@ -176,10 +182,10 @@ div{
 
 }
 .came{
-    width: 200px;
+    width: 400px;
     height: 40px;
     margin-bottom: 20px;
 }
-.came,,{
-    background: #fd6e0a;
+.text{
+    margin-bottom: 30px;
 }
