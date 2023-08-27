@@ -167,17 +167,15 @@ div{
 .sec-cla{
     text-align: left    ;
 }
-.div-con{
-  padding: 30px ;
 
+.div-con{
+    padding: 30px ;
 }
 .div-let{
     display: flex;
-    padding: 50%;
     background-color: blanchedalmond;
-   
-    
-}
+    border: 0px;
+   }
 .div-me{
 
 }
